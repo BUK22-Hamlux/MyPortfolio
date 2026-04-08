@@ -27,7 +27,7 @@ function Home() {
         </div>
 
         <motion.div
-          className="z-10 max-w-4xl mx-auto p-16"
+          className="z-10 max-w-4xl mx-auto py-16"
           initial="hidden"
           animate="visible"
         >
