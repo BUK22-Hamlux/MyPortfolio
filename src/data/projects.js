@@ -56,8 +56,8 @@ const ProjectList = [
         color: "text-purple-400 bg-purple-400/10",
       },
     ],
-    linkUrl: "https://my-portfolio-phi-six-65.vercel.app/",
-    codeUrl: "https://github.com/BUK22-Hamlux/MyPortfolio",
+    linkUrl: "#",
+    codeUrl: "#",
   },
   {
     id: "4",
