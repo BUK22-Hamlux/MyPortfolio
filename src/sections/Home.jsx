@@ -102,7 +102,7 @@ function Home() {
                   <i className="bx bx-download mr-2"></i>Download CV
                 </>
               }
-              href="/cv.pdf"
+              href="/Yahaya_Lukman_CV.pdf"
               download
               variant="not-primary"
               optionalClasses="px-6 py-3 text-base text-white border-slate-600"

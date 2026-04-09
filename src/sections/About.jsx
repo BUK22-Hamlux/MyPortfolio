@@ -229,7 +229,7 @@ function About() {
                 Work With Me
               </a>
               <a
-                href="/cv.pdf"
+                href="/Yahaya_Lukman_CV.pdf"
                 download
                 className="px-5 py-2.5 border border-slate-600 hover:border-slate-500 text-slate-300 text-sm font-semibold rounded-lg transition-colors flex items-center gap-2"
               >
